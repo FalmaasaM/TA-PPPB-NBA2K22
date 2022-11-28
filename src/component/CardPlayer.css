@@ -1,0 +1,25 @@
+.cardplayer {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 0.5rem;
+    margin: 2rem auto;
+    max-width: 540px;
+    margin-bottom: 40px;
+    cursor: pointer;
+  }
+  
+  .photoplayer {
+    width: 200px;
+    height: 200px;
+    border-radius: 12px;
+  }
+  
+  #title {
+    color: white;
+    font-size: 22px;
+    font-weight: bold;
+    font-family: Verdana;
+  }
+  

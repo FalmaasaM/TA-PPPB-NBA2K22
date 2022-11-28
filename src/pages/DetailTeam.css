@@ -1,0 +1,61 @@
+.containerBigTeam {
+  padding-left: 40px;
+}
+
+.posterBigTeam {
+  width: 280px;
+  height: 280px;
+  border-radius: 2px;
+  border-radius: 20px;
+}
+  
+#title {
+  color: white;
+  font-size: 22px;
+  font-weight: bold;
+  font-family: Verdana;
+}
+
+#nama {
+  color: rgb(0, 0, 0);
+  font-family: Verdana;
+  font-weight: 500;
+  font-size: 12px;
+  margin-top: 5px;
+} 
+
+#pelatih {
+  color: rgb(0, 0, 0);
+  font-family: Verdana;
+  font-weight: 300;
+  font-size: 16px;
+  margin-top: 10px;
+  text-align: justify;
+}
+
+#stadion {
+  color: rgb(0, 0, 0);
+  font-family: Verdana;
+  font-weight: 300;
+  font-size: 16px;
+  margin-top: 10px;
+  text-align: justify;
+} 
+
+#asal {
+  color: rgb(0, 0, 0);
+  font-family: Verdana;
+  font-weight: 300;
+  font-size: 16px;
+  margin-top: 10px;
+  text-align: justify;
+} 
+
+#deskripsi {
+  color: rgb(0, 0, 0);
+  font-family: Verdana;
+  font-weight: 300;
+  font-size: 16px;
+  margin-top: 10px;
+  text-align: justify;
+} 
